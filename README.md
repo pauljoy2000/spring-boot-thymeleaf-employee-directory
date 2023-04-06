@@ -1,6 +1,7 @@
 # spring-boot-thymeleaf-employee-directory
 
 Simple **CRUD** operations have been implemented on an **Employee** entity.
+![Screenshot (1148)](https://user-images.githubusercontent.com/127471173/230432437-d305e6d8-0e3c-4eaa-bcfd-a067611bc9d6.png)
 
 
 ## Contents 
